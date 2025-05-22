@@ -1,0 +1,2 @@
+# Cube-Jump
+ **Cube Jump** is an exciting endless runner game where you control a cube that must jump over evil triangles that appear in its path. As you progress through the game, the speed and challenge increase, making the task more difficult. You have to stay careful and avoid hitting the triangles, and if you succeed in jumping correctly, you will be able to achieve higher scores. The goal is to keep running for as long as possible and achieve the highest score possible. Try to challenge yourself and compete with your friends for the best score!
