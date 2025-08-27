@@ -75,7 +75,7 @@ setInterval(() => {
 
         // إيقاف حركة الخلفية
         gameContainer.style.animation = 'none'; // إزالة الحركة
-
+document.querySelector('.bgVideo').pause();
         document.addEventListener('click', restartGame);
     }
 }, 10);
